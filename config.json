@@ -38,18 +38,12 @@
             {
               "groupName": "Page Templates",
               "subpages": [
-                {
-                  "groupName": "Test",
-                  "subpages": [
-                    "basics/page-templates/test/api-introduction"
-                  ]
-                },
                 "basics/page-templates/authentication",
                 "basics/page-templates/environments"
               ]
             },
-            "basics/markdown-basics",
-            "basics/global-settings"
+            "basics/global-settings",
+            "basics/markdown-basics"
           ]
         },
         {
