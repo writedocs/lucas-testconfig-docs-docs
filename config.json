@@ -33,25 +33,30 @@
       "sidebarRef": "guides",
       "categories": [
         {
+          "categoryName": "Basics",
+          "pages": [
+            {
+              "groupName": "Page Templates",
+              "subpages": [
+                {
+                  "groupName": "Test",
+                  "subpages": [
+                    "basics/page-templates/test/api-introduction"
+                  ]
+                },
+                "basics/page-templates/authentication",
+                "basics/page-templates/environments"
+              ]
+            },
+            "basics/markdown-basics",
+            "basics/global-settings"
+          ]
+        },
+        {
           "categoryName": "Getting Started",
           "pages": [
             "getting-started/introduction",
             "getting-started/local-development"
-          ]
-        },
-        {
-          "categoryName": "Basics",
-          "pages": [
-            "basics/global-settings",
-            "basics/markdown-basics",
-            {
-              "groupName": "Page Templates",
-              "subpages": [
-                "basics/page-templates/api-introduction",
-                "basics/page-templates/environments",
-                "basics/page-templates/authentication"
-              ]
-            }
           ]
         }
       ]
