@@ -33,24 +33,24 @@
       "sidebarRef": "guides",
       "categories": [
         {
+          "categoryName": "Getting Started",
+          "pages": [
+            "getting-started/introduction",
+            "getting-started/local-development"
+          ]
+        },
+        {
           "categoryName": "Basics",
           "pages": [
+            "basics/global-settings",
+            "basics/markdown-basics",
             {
               "groupName": "Page Templates",
               "subpages": [
                 "basics/page-templates/authentication",
                 "basics/page-templates/environments"
               ]
-            },
-            "basics/global-settings",
-            "basics/markdown-basics"
-          ]
-        },
-        {
-          "categoryName": "Getting Started",
-          "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
+            }
           ]
         }
       ]
