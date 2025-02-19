@@ -47,8 +47,8 @@
             {
               "groupName": "Page Templates",
               "subpages": [
-                "basics/page-templates/authentication",
-                "basics/page-templates/environments"
+                "basics/page-templates/environments",
+                "basics/page-templates/authentication"
               ]
             }
           ]
