@@ -35,8 +35,8 @@
         {
           "categoryName": "Getting Started",
           "pages": [
-            "getting-started/introduction",
-            "getting-started/local-development"
+            "getting-started/local-development",
+            "getting-started/introduction"
           ]
         },
         {
