@@ -42,15 +42,15 @@
         {
           "categoryName": "Basics",
           "pages": [
-            "basics/global-settings",
             "basics/markdown-basics",
             {
               "groupName": "Page Templates",
               "subpages": [
                 "basics/page-templates/environments",
-                "basics/page-templates/authentication"
+                "basics/page-templates/global-settings"
               ]
-            }
+            },
+            "basics/authentication"
           ]
         }
       ]
