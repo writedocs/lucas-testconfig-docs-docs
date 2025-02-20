@@ -48,7 +48,8 @@
               "subpages": [
                 "basics/page-templates/environments",
                 "basics/page-templates/global-settings"
-              ]
+              ],
+              "page": "basics/page-templates/page-templates"
             },
             "basics/authentication"
           ]
