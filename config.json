@@ -42,7 +42,6 @@
         {
           "categoryName": "Basics",
           "pages": [
-            "basics/markdown-basics",
             {
               "groupName": "Page Templates",
               "subpages": [
@@ -51,6 +50,7 @@
               ],
               "page": "basics/page-templates/page-templates"
             },
+            "basics/markdown-basics",
             "basics/authentication"
           ]
         }
